@@ -1,0 +1,46 @@
+---
+title: "WELCOME TO MY TEACHING"
+description: |
+  about my teaching
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Fall 2022
+
+- Intro to stats
+
+- Probability
+
+# Spring 2023
+
+- Intro to stats
+
+- Probability
+
+
+Create and add a graph to our website
+
+```{r}
+hist(rnorm(1000))
+
+```
+
+Upload an existing graph to our web
+
+
+```{r}
+library(here)
+library(knitr)
+include_graphics(here::here("Shiny_Art_image1.png"))
+```
+
+# SHINY APP
+
+<iframe src="https://abbyflynt.shinyapps.io/USCOTS2023/" class="l-screen-inset shaded" height="1000px"></iframe>
+
+
+
+

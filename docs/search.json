@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-06-01T16:00:55-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Welcome!",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          My Website\r\n          \r\n          \r\n          Home\r\n          About\r\n          Teaching\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Welcome!\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            \r\n          \r\n          \r\n            \r\n                \r\n                  \r\n                    github\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n              \r\n                          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Welcome!\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            \r\n          \r\n        \r\n      \r\n      \r\n          \r\n              \r\n                                \r\n                    \r\n                    github\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Email\r\n                    \r\n                \r\n                              \r\n          \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2023-09-03T09:21:36-05:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "WELCOME TO MY TEACHING",
+      "description": "about my teaching",
+      "author": [],
+      "contents": "\r\nFall 2022\r\nIntro to stats\r\nProbability\r\nSpring 2023\r\nIntro to stats\r\nProbability\r\nCreate and add a graph to our website\r\n\r\n\r\nhist(rnorm(1000))\r\n\r\n\r\n\r\nUpload an existing graph to our web\r\n\r\n\r\nlibrary(here)\r\nlibrary(knitr)\r\ninclude_graphics(here::here(\"Shiny_Art_image1.png\"))\r\n\r\n\r\n\r\nSHINY APP\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-06-01T16:01:00-05:00"
+    }
+  ],
+  "collections": []
+}
