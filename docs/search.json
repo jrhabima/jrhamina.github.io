@@ -20,8 +20,8 @@
       "title": "WELCOME TO MY TEACHING",
       "description": "about my teaching",
       "author": [],
-      "contents": "\r\nFall 2022\r\nIntro to stats\r\nProbability\r\nSpring 2023\r\nIntro to stats\r\nProbability\r\nCreate and add a graph to our website\r\n\r\n\r\nhist(rnorm(1000))\r\n\r\n\r\n\r\nUpload an existing graph to our web\r\n\r\n\r\nlibrary(here)\r\nlibrary(knitr)\r\ninclude_graphics(here::here(\"Shiny_Art_image1.png\"))\r\n\r\n\r\n\r\nSHINY APP\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-01T16:01:00-05:00"
+      "contents": "\r\nFall 2022\r\nIntro to stats\r\nProbability\r\nSpring 2023\r\nIntro to stats\r\nProbability\r\nCreate and add a graph to our website\r\n\r\n\r\nhist(rnorm(1000))\r\n\r\n\r\n\r\nUpload an existing graph to our web\r\n\r\n\r\nlibrary(here)\r\nlibrary(knitr)\r\ninclude_graphics(here::here(\"Shiny_Art_image1.png\"))\r\n\r\n\r\n\r\nSHINY APP\r\n\r\n\r\nHistogram\r\n\r\n\r\nhist(rnorm(1000))\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-09-03T10:22:41-05:00"
     }
   ],
   "collections": []

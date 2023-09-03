@@ -42,5 +42,10 @@ include_graphics(here::here("Shiny_Art_image1.png"))
 <iframe src="https://abbyflynt.shinyapps.io/USCOTS2023/" class="l-screen-inset shaded" height="1000px"></iframe>
 
 
+# Histogram
 
+```{r}
+hist(rnorm(1000))
+
+```
 
